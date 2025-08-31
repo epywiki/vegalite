@@ -1,0 +1,15 @@
+name: VegaLite
+version: 1.0.0
+description: View your Vega-Lite JSON code with the vega, vega-lite and vega-embed libraries (https://vega.github.io/vega-lite/)
+author: "ludwigspeke"
+homepage: https://github.com/epywiki/vegalite
+licence: MIT
+
+settings:
+  tool: none
+
+forms:
+  fields:
+
+
+
