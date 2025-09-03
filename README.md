@@ -28,7 +28,7 @@ You can embed a Vega-Lite chart using the following syntax:
   }
 }
 ```
-### Installation
+## Installation
 -Download the plugin files.
 -Upload them to your Typemill plugins directory.
 -Activate the plugin via the Typemill admin panel.
