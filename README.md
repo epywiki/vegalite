@@ -36,3 +36,7 @@ You can embed a Vega-Lite chart using the following syntax:
 ## Documentation
 - For more details on Vega-Lite chart specifications, visit the [Vega-Lite Documentation](https://vega.github.io/vega-lite/).
 - Enhance your Typemill content with interactive and customizable data visualizations effortlessly!
+
+## Contribution
+This plugin is welcome to improvements and feel free to report any bugs.
+  
