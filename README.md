@@ -29,10 +29,10 @@ You can embed a Vega-Lite chart using the following syntax:
 }
 ```
 ## Installation
--Download the plugin files.
--Upload them to your Typemill plugins directory.
--Activate the plugin via the Typemill admin panel.
+- Download the plugin files.
+- Upload them to your Typemill plugins directory.
+- Activate the plugin via the Typemill admin panel.
 
-### Documentation
--For more details on Vega-Lite chart specifications, visit the Vega-Lite Documentation
--Enhance your Typemill content with interactive and customizable data visualizations effortlessly!
+## Documentation
+- For more details on Vega-Lite chart specifications, visit the Vega-Lite Documentation
+- Enhance your Typemill content with interactive and customizable data visualizations effortlessly!
