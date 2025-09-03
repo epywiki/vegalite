@@ -1,15 +1,25 @@
 name: VegaLite
 version: 1.0.0
-description: View your Vega-Lite JSON code with the vega, vega-lite and vega-embed libraries (https://vega.github.io/vega-lite/)
-author: "ludwigspeke"
+description: >
+  Embed and visualize your Vega-Lite JSON charts in Typemill using the
+  Vega, Vega-Lite, and Vega-Embed libraries.
+author: Ludwig Speke
 homepage: https://github.com/epywiki/vegalite
-licence: MIT
+license: MIT
 
 settings:
   tool: none
 
 forms:
   fields:
+    # Define plugin configuration fields here if needed
+    # Example:
+    # - name: chartData
+    #   type: textarea
+    #   label: "Vega-Lite JSON"
+    #   placeholder: '{"data": {"values": [...]}, "mark": "bar", "encoding": {...}}'
+    #   required: true
+
 
 
 
