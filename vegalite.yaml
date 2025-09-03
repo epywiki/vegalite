@@ -3,7 +3,7 @@ version: 1.0.0
 description: >
   Embed and visualize your Vega-Lite JSON charts in Typemill using the
   Vega, Vega-Lite, and Vega-Embed libraries.
-author: Ludwig Speke
+author: Ludwigspeke
 homepage: https://github.com/epywiki/vegalite
 license: MIT
 
